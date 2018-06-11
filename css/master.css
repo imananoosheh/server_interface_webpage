@@ -1,7 +1,7 @@
 html {
     font-family: 'Lato', sans-serif;
     color: #fff;
-    line-height: 10px;
+    line-height: 1;
     background-color: rgb(70, 70, 70);
 }
     #cssloader {
@@ -43,10 +43,10 @@ html {
         position: fixed;
         display: felx;
         top: 10%;
-        right: 0%;
-        left: 0%;
+        right: 2%;
+        left: 2%;
         text-align: center;
-        font-size: 24px;
+        font-size: 22px;
         font-weight: bold;
         text-transform: uppercase;
     }
